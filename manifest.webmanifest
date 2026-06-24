@@ -1,0 +1,17 @@
+{
+  "name": "Карт Секай",
+  "short_name": "Карт Секай",
+  "description": "Магазин коллекционных аниме карточек с каталогом, наборами, заказами и кабинетом.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f9fbff",
+  "theme_color": "#ff7db7",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
